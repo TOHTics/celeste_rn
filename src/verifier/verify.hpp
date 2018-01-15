@@ -15,7 +15,7 @@
 #ifndef SUNSPEC_VERIFY_HPP
 #define SUNSPEC_VERIFY_HPP
 
-#include <sunspec/data/data.hpp>
+#include "data/data.hpp"
 
 namespace sunspec
 {

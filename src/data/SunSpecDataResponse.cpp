@@ -18,7 +18,7 @@
 #include <boost/property_tree/xml_parser.hpp>
 #include <iostream>
 #include "SunSpecDataResponse.hpp"
-#include "sunspec/util/sdx_tags.hpp"
+#include "util/sdx_tags.hpp"
 
 using namespace boost::property_tree;
 using node = std::pair<std::string, ptree>;
